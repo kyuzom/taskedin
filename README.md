@@ -5,6 +5,7 @@ Company tasks, interview exercises.
 ## Tasks
 
 * [gh-pyhwjser](gh-pyhwjser/README.md)
+* [menuscraper](menuscraper/README.md)
 
 ## License
 

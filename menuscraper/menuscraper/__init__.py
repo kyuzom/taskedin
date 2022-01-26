@@ -1,0 +1,1 @@
+from .menuscraper import MenuScraperFactory
