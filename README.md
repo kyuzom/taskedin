@@ -2,6 +2,8 @@
 
 Company tasks, interview exercises.
 
+The name itself is a wordplay: *TaskedIn* - *LinkedIn*
+
 ## Tasks
 
 * [gh-pyhwjser](gh-pyhwjser/README.md)
